@@ -13,5 +13,6 @@ public class Main {
         Mobil_Bekas mobilBekas = new Mobil_Bekas("Honda", "Civic", 2018, 200000000);
         Dealer dealer = new Dealer("MobilIndo", mobilBaru, mobilBekas);
         dealer.info();
+//        balik kutambahin komen disini -> trs kusave
     }
 }
